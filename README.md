@@ -15,7 +15,7 @@ ent_center.py       <-- this is where I created all of my movie instances
 
 ## How to render .HTML file
 
-open ent_center.py and fresh_tomatoes.py modify what you want and then while in ent_center.py run it and it will create/modify fresh_tomatoes.html.
+open ent_center.py and fresh_tomatoes.py modify what you want and then while in ent_center.py run it and it will create/modify fresh_tomatoes.html as well as open the html file in a browser.
 
 ## Questions and Comments
 @IDS07 - Twitter
