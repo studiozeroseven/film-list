@@ -17,5 +17,7 @@ ent_center.py       <-- this is where I created all of my movie instances
 
 open ent_center.py and fresh_tomatoes.py modify what you want and then while in ent_center.py run it and it will create/modify fresh_tomatoes.html as well as open the html file in a browser.
 
+Open terminal and run ```python ent_center.py```
+
 ## Questions and Comments
 @IDS07 - Twitter
