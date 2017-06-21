@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-# I pulled this from the class and am using it here, I know there is a better way of doing this
+# I pulled this from the class and am using it here, I know there is a better way of doing this  # noqa
 VALID_RATINGS = ["G", "PG", "PG-13", "R"]
 
 toy_story = media.Movie("Toy Story",
